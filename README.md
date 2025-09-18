@@ -43,7 +43,8 @@ O objetivo é atravessar as pistas repletas de carros antes que o tempo acabe, s
 ## 📂 Estrutura de Códigos
 - **carros.gd**: controla velocidade, direção e animação dos veículos.  
 - **player.gd**: movimentação, animações e colisões do personagem.  
-- **main.gd**: lógica principal do jogo (spawns, timers, placar e condições de vitória/derrota). - **hud.gd**: interface (mensagens, botões e reinício).  
+- **main.gd**: lógica principal do jogo (spawns, timers, placar e condições de vitória/derrota).
+- **hud.gd**: interface (mensagens, botões e reinício).  
 
 ---
 
