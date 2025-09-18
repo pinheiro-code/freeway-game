@@ -29,9 +29,7 @@ O objetivo é atravessar as pistas repletas de carros antes que o tempo acabe, s
 ## 🖼️ Capturas de Tela
 | Gameplay | Tempo Esgotado | Vitória |
 |----------|----------------|---------|
-| ![Gameplay](./screenshots/gameplay.png) | ![Tempo Esgotado](./screenshots/timeup.png) | ![Vitória](./screenshots/win.png) |
-
-> *(Coloque os prints na pasta `screenshots/` e ajuste os nomes conforme os arquivos reais.)*  
+| ![Gameplay](./screenshots/gameplay.png) | ![Tempo Esgotado](./screenshots/timeup.png) | ![Vitória](./screenshots/win.png) |  
 
 ---
 
@@ -45,17 +43,14 @@ O objetivo é atravessar as pistas repletas de carros antes que o tempo acabe, s
 ## 📂 Estrutura de Códigos
 - **carros.gd**: controla velocidade, direção e animação dos veículos.  
 - **player.gd**: movimentação, animações e colisões do personagem.  
-- **main.gd**: lógica principal do jogo (spawns, timers, placar e condições de vitória/derrota).  
-- **hud.gd**: interface (mensagens, botões e reinício).  
+- **main.gd**: lógica principal do jogo (spawns, timers, placar e condições de vitória/derrota). - **hud.gd**: interface (mensagens, botões e reinício).  
 
 ---
 
 ## ▶️ Como Rodar
 1. Clone este repositório:  
    ```bash
-
-2. git clone https://github.com/pinheiro-code/freeway-game.git
-   Abra a pasta no Godot Engine.
-
+git clone https://github.com/pinheiro-code/freeway-game.git
+2. Abra a pasta no Godot Engine.
 3. Clique em Run ▶️ para jogar.
 
